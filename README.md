@@ -1,2 +1,2 @@
 # DSMix
-[ECCV 2024]
+Accepted by ECCV 2024.
